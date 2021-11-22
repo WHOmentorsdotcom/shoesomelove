@@ -1,6 +1,6 @@
 # shoe some love
 
-Please email admin@whomentors.com to request access to TestFlight app. The source code contains production account values.
+Please email admin@whomentors.com to request access to TestFlight app and to recive Gift Redemption Code. The source code contains production account values.
 
 Link to Order Square Gift Cards from WHOMENTORSDOTCOM INC.
 
